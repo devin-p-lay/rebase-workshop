@@ -9,6 +9,7 @@ CONTENTS OF THIS FILE
  * Installation
  * Configuration
  * Troubleshooting
+ * Rebase testing
 
  INTRODUCTION
 ------------
